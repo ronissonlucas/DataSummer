@@ -1,4 +1,4 @@
-# data_summer
+# DataSummer
 Repositório com notebooks de minicursos ministrados no evento DataSummer, promovido pela comunidade DataLovers entre 25 a 29 de janeiro.
 
 
@@ -8,4 +8,4 @@ Repositório com notebooks de minicursos ministrados no evento DataSummer, promo
 
 # Minicurso do dia 27-01
 ## [Álgebra Linear: fundamentos e aplicações em Ciência de Dados](https://github.com/ronissonlucas/data_summer/blob/main/%C3%81lgebra%20Linear/Algebra_Linear.ipynb)
-## [Resolução Hands On!](#)
+## [Resolução Hands On!](https://github.com/ronissonlucas/DataSummer/blob/main/%C3%81lgebra%20Linear/Hands%20on!.ipynb)
